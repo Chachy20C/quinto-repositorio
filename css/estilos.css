@@ -1,0 +1,18 @@
+body
+{
+    padding: 10px;
+    margin: 40px;
+    font-size: 24px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: url(https://i.pinimg.com/originals/dd/32/66/dd3266da439dd94ef6994400b3fdaae2.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    color: white;
+
+}
+nav
+{
+    background-color: #0aa5ff;
+    padding: 0px;
+    color: white;
+}
